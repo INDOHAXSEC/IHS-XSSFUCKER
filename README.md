@@ -60,7 +60,7 @@ Password: INDOHAXSECTEAM
 
 🎯 Basic Usage
 
-python ihs-xss.py
+python ihs-xss.pyc
 
 After running the command above, you will be prompted to enter the security password to access the tool.
 
